@@ -1,1 +1,2 @@
 # AI-Agent-Personas
+Developed in collaboration with Thales and as part of an Centrale Meditérannée academic project, this initiative focuses on creating AI agents enhanced by Retrieval-Augmented Generation (RAG) techniques to simulate realistic personas. Leveraging advanced Large Language Models (LLMs) and dynamic knowledge retrieval, these agents embody diverse socio-demographic and personality traits, enabling strategic simulations, improved decision-making, and innovation within operational scenarios.
