@@ -1,0 +1,49 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "text": "Can you tell me about your current role and how your activities are related to the topic we're discussing?",
+        "dimension": "DIMENSION 1 (in the REPORT): OPERATIONAL RELEVANCE"
+      },
+      {
+        "id": 2,
+        "text": "What are the main challenges or frustrations you encounter in your work or day-to-day business related to this topic?",
+        "dimension": "DIMENSION 2 (in the REPORT): PAIN RELEVANCE"
+      },
+      {
+        "id": 3,
+        "text": "Can you describe a recent situation where you needed to solve a problem related to this topic?",
+        "dimension": "DIMENSION 2 (in the REPORT): PAIN RELEVANCE"
+      },
+      {
+        "id": 4,
+        "text": "Do you believe that our new product/service helps you solve this problem?",
+        "dimension": "DIMENSION 3 (in the REPORT): UNDERSTANDING OF THE NEW SERVICE/OFFER BENEFITS"
+      },
+      {
+        "id": 5,
+        "text": "What are the easily identifiable benefits that this service can bring you?",
+        "dimension": "DIMENSION 3 (in the REPORT): UNDERSTANDING OF THE NEW SERVICE/OFFER BENEFITS"
+      },
+      {
+        "id": 6,
+        "text": "What constraints or limits do you perceive in the solution?",
+        "dimension": "DIMENSION 4 (in the REPORT): COMPLETENESS OF THE SERVICE / OFFER"
+      },
+      {
+        "id": 7,
+        "text": "What constraints or frustrations does this service not address?",
+        "dimension": "DIMENSION 4 (in the REPORT): COMPLETENESS OF THE SERVICE / OFFER"
+      },
+      {
+        "id": 8,
+        "text": "Regarding business potential, how do you plan to utilize this new service?",
+        "dimension": "DIMENSION 5 (in the REPORT): BUSINESS EFFICIENCY"
+      },
+      {
+        "id": 9,
+        "text": "QCM: Frequency of usage.",
+        "dimension": "DIMENSION 5 (in the REPORT): BUSINESS EFFICIENCY"
+      }
+    ]
+  }
